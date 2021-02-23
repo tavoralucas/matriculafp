@@ -1,0 +1,387 @@
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinov2/esmeraldino/bin/esmeraldino.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinov2/esmeraldino/bin/esmeraldino.pdb
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinov2/esmeraldino/obj/Debug/esmeraldino.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinov2/esmeraldino/obj/Debug/esmeraldino.pdb
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/esmeraldino.dll.config
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/SqlServerTypes/x64/msvcr120.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/SqlServerTypes/x64/SqlServerSpatial140.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/SqlServerTypes/x86/msvcr120.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/SqlServerTypes/x86/SqlServerSpatial140.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.ReportViewer.Common.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.ReportViewer.DataVisualization.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.ReportViewer.Design.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.ReportViewer.WebDesign.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.ReportViewer.WebForms.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.ReportViewer.WinForms.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.SqlServer.Types.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/EnvDTE.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.Shell.Interop.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/stdole.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.OLE.Interop.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.TextManager.Interop.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.MSXML.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.Shell.Interop.xml
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.OLE.Interop.xml
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.TextManager.Interop.xml
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/de/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/es/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/fr/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/it/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ja/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ko/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/pt/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ru/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHS/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHT/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/de/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/es/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/fr/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/it/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ja/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ko/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/pt/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ru/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHS/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHT/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/de/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/es/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/fr/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/it/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ja/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ko/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/pt/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ru/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHS/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHT/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/de/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/es/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/fr/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/it/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ja/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ko/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/pt/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ru/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHS/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHT/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/de/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/es/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/fr/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/it/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ja/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ko/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/pt/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ru/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHS/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHT/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/de/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/es/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/fr/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/it/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ja/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ko/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/pt/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ru/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHS/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHT/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/obj/Debug/esmeraldino.csprojAssemblyReference.cache
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/obj/Debug/esmeraldino.csproj.CoreCompileInputs.cache
+C:/Users/Cleison/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/obj/Debug/esmeraldino.csproj.CopyComplete
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/SqlServerTypes/x64/msvcr120.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/SqlServerTypes/x64/SqlServerSpatial140.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/SqlServerTypes/x86/msvcr120.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/SqlServerTypes/x86/SqlServerSpatial140.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/esmeraldino.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/esmeraldino.pdb
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.ReportViewer.Common.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.ReportViewer.DataVisualization.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.ReportViewer.Design.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.ReportViewer.ProcessingObjectModel.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.ReportViewer.WebDesign.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.ReportViewer.WebForms.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.ReportViewer.WinForms.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.SqlServer.Types.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/EnvDTE.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.Shell.Interop.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/stdole.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.OLE.Interop.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.TextManager.Interop.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.MSXML.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.Shell.Interop.xml
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.Shell.Interop.8.0.xml
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.OLE.Interop.xml
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.TextManager.Interop.xml
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ja/Microsoft.ReportViewer.Common.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/it/Microsoft.ReportViewer.Common.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ru/Microsoft.ReportViewer.Common.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/pt/Microsoft.ReportViewer.Common.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/de/Microsoft.ReportViewer.Common.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHT/Microsoft.ReportViewer.Common.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHS/Microsoft.ReportViewer.Common.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ko/Microsoft.ReportViewer.Common.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/fr/Microsoft.ReportViewer.Common.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/es/Microsoft.ReportViewer.Common.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ja/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/it/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ru/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/pt/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/de/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHT/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHS/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ko/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/fr/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/es/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ja/Microsoft.ReportViewer.Design.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/it/Microsoft.ReportViewer.Design.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ru/Microsoft.ReportViewer.Design.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/pt/Microsoft.ReportViewer.Design.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/de/Microsoft.ReportViewer.Design.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHT/Microsoft.ReportViewer.Design.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHS/Microsoft.ReportViewer.Design.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ko/Microsoft.ReportViewer.Design.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/fr/Microsoft.ReportViewer.Design.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/es/Microsoft.ReportViewer.Design.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ja/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/it/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ru/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/pt/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/de/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHT/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHS/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ko/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/fr/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/es/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ja/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/it/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ru/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/pt/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/de/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHT/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHS/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ko/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/fr/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/es/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ja/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/it/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ru/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/pt/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/de/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHT/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/zh-CHS/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/ko/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/fr/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/bin/es/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/obj/Debug/esmeraldino.csprojAssemblyReference.cache
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/obj/Debug/esmeraldino.csproj.CopyComplete
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/obj/Debug/esmeraldino.dll
+/Users/mac/Dropbox/Sistemas/DotNet/esmeraldinoV2/esmeraldino/obj/Debug/esmeraldino.pdb
+C:\matriculasfp\esmeraldino\obj\Debug\esmeraldino.csprojAssemblyReference.cache
+C:\matriculasfp\esmeraldino\obj\Debug\esmeraldino.csproj.CoreCompileInputs.cache
+C:\matriculasfp\esmeraldino\obj\Debug\esmeraldino.dll
+C:\matriculasfp\esmeraldino\obj\Debug\esmeraldino.pdb
+C:\matriculasfp\esmeraldino\bin\SqlServerTypes\x64\msvcr120.dll
+C:\matriculasfp\esmeraldino\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\matriculasfp\esmeraldino\bin\SqlServerTypes\x86\msvcr120.dll
+C:\matriculasfp\esmeraldino\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\matriculasfp\esmeraldino\bin\esmeraldino.dll.config
+C:\matriculasfp\esmeraldino\bin\esmeraldino.dll
+C:\matriculasfp\esmeraldino\bin\esmeraldino.pdb
+C:\matriculasfp\esmeraldino\bin\Microsoft.ReportViewer.Common.dll
+C:\matriculasfp\esmeraldino\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\matriculasfp\esmeraldino\bin\Microsoft.ReportViewer.Design.dll
+C:\matriculasfp\esmeraldino\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\matriculasfp\esmeraldino\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\matriculasfp\esmeraldino\bin\Microsoft.ReportViewer.WebForms.dll
+C:\matriculasfp\esmeraldino\bin\Microsoft.ReportViewer.WinForms.dll
+C:\matriculasfp\esmeraldino\bin\Microsoft.SqlServer.Types.dll
+C:\matriculasfp\esmeraldino\bin\RestSharp.dll
+C:\matriculasfp\esmeraldino\bin\EnvDTE.dll
+C:\matriculasfp\esmeraldino\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\matriculasfp\esmeraldino\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\matriculasfp\esmeraldino\bin\stdole.dll
+C:\matriculasfp\esmeraldino\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\matriculasfp\esmeraldino\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\matriculasfp\esmeraldino\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\matriculasfp\esmeraldino\bin\Microsoft.MSXML.dll
+C:\matriculasfp\esmeraldino\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\matriculasfp\esmeraldino\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\matriculasfp\esmeraldino\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\matriculasfp\esmeraldino\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\matriculasfp\esmeraldino\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\matriculasfp\esmeraldino\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\matriculasfp\esmeraldino\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\matriculasfp\esmeraldino\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\matriculasfp\esmeraldino\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\matriculasfp\esmeraldino\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\matriculasfp\esmeraldino\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\matriculasfp\esmeraldino\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\matriculasfp\esmeraldino\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\matriculasfp\esmeraldino\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\matriculasfp\esmeraldino\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\matriculasfp\esmeraldino\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\matriculasfp\esmeraldino\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\matriculasfp\esmeraldino\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\matriculasfp\esmeraldino\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\matriculasfp\esmeraldino\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\matriculasfp\esmeraldino\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\matriculasfp\esmeraldino\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\matriculasfp\esmeraldino\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\matriculasfp\esmeraldino\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\matriculasfp\esmeraldino\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\matriculasfp\esmeraldino\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\matriculasfp\esmeraldino\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\matriculasfp\esmeraldino\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\matriculasfp\esmeraldino\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\matriculasfp\esmeraldino\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\matriculasfp\esmeraldino\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\matriculasfp\esmeraldino\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\matriculasfp\esmeraldino\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\matriculasfp\esmeraldino\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\matriculasfp\esmeraldino\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\matriculasfp\esmeraldino\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\matriculasfp\esmeraldino\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\matriculasfp\esmeraldino\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\matriculasfp\esmeraldino\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\matriculasfp\esmeraldino\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\matriculasfp\esmeraldino\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\matriculasfp\esmeraldino\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\matriculasfp\esmeraldino\obj\Debug\esmeraldino.csproj.CopyComplete
+C:\matriculasfp\esmeraldino\bin\Newtonsoft.Json.dll
+C:\matriculasfp\esmeraldino\bin\Uol.PagSeguro.dll
+C:\matriculasfp\esmeraldino\bin\Newtonsoft.Json.xml
+C:\matriculasfp\esmeraldino\bin\Uol.PagSeguro.pdb
+C:\Users\Cleison\Google Drive\esmeraldino\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\esmeraldino.dll.config
+C:\Users\Cleison\Google Drive\esmeraldino\bin\esmeraldino.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\esmeraldino.pdb
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Newtonsoft.Json.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\EnvDTE.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\stdole.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Microsoft.MSXML.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Newtonsoft.Json.xml
+C:\Users\Cleison\Google Drive\esmeraldino\bin\Uol.PagSeguro.pdb
+C:\Users\Cleison\Google Drive\esmeraldino\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cleison\Google Drive\esmeraldino\obj\Debug\esmeraldino.csprojAssemblyReference.cache
+C:\Users\Cleison\Google Drive\esmeraldino\obj\Debug\esmeraldino.csproj.CoreCompileInputs.cache
+C:\Users\Cleison\Google Drive\esmeraldino\obj\Debug\esmeraldino.csproj.CopyComplete
+C:\Users\Cleison\Google Drive\esmeraldino\obj\Debug\esmeraldino.dll
+C:\Users\Cleison\Google Drive\esmeraldino\obj\Debug\esmeraldino.pdb
+C:\Users\Cleison\OneDrive\esmeraldino\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Cleison\OneDrive\esmeraldino\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Cleison\OneDrive\esmeraldino\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Cleison\OneDrive\esmeraldino\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Cleison\OneDrive\esmeraldino\bin\esmeraldino.dll.config
+C:\Users\Cleison\OneDrive\esmeraldino\bin\esmeraldino.dll
+C:\Users\Cleison\OneDrive\esmeraldino\bin\esmeraldino.pdb
+C:\Users\Cleison\OneDrive\esmeraldino\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Cleison\OneDrive\esmeraldino\bin\Newtonsoft.Json.dll
+C:\Users\Cleison\OneDrive\esmeraldino\bin\Newtonsoft.Json.xml
+C:\Users\Cleison\OneDrive\esmeraldino\bin\Uol.PagSeguro.pdb
+C:\Users\Cleison\OneDrive\esmeraldino\obj\Debug\esmeraldino.csprojAssemblyReference.cache
+C:\Users\Cleison\OneDrive\esmeraldino\obj\Debug\esmeraldino.csproj.CoreCompileInputs.cache
+C:\Users\Cleison\OneDrive\esmeraldino\obj\Debug\esmeraldino.csproj.CopyComplete
+C:\Users\Cleison\OneDrive\esmeraldino\obj\Debug\esmeraldino.dll
+C:\Users\Cleison\OneDrive\esmeraldino\obj\Debug\esmeraldino.pdb
+C:\Users\Cleison\OneDrive\esmeraldino\bin\BouncyCastle.Crypto.dll
+C:\Users\Cleison\OneDrive\esmeraldino\bin\BouncyCastle.Crypto.xml
+C:\Users\Cleison\OneDrive\esmeraldino\bin\OpenHtmlToPdf.dll

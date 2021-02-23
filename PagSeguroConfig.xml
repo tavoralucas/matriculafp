@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PagSeguroConfiguration>
+  <!-- Urls defaults for call services PagSeguro -->
+  <Urls>
+    <!-- url for payment service -->
+    <Payment>
+      <Link>https://ws.pagseguro.uol.com.br/v2/checkout</Link>
+    </Payment>
+    <!-- url for paymentRedirect service -->
+    <PaymentRedirect>
+      <Link>https://pagseguro.uol.com.br/v2/checkout/payment.html</Link> 
+    </PaymentRedirect>
+    <!-- url for notifications service -->
+    <Notification>
+      <Link>https://ws.pagseguro.uol.com.br/v2/transactions/notifications</Link>
+    </Notification>
+    <!-- url for transactions service -->
+    <Search>
+      <Link>https://ws.pagseguro.uol.com.br/v2/transactions</Link>
+    </Search>
+    <!-- url for preApproval request service -->
+    <PreApproval>
+      <Link>https://ws.pagseguro.uol.com.br/v2/pre-approvals/request</Link>
+    </PreApproval>
+    <!-- url for preApprovalRedirect service -->
+    <PreApprovalRedirect>
+      <Link>https://pagseguro.uol.com.br/v2/pre-approvals/request.html</Link>
+    </PreApprovalRedirect>
+    <!-- url for preApproval notifications service -->
+    <PreApprovalNotification>
+      <Link>https://ws.pagseguro.uol.com.br/v2/pre-approvals/notifications</Link>
+    </PreApprovalNotification>
+    <!-- url for preApproval transactions service -->
+    <PreApprovalSearch>
+      <Link>https://ws.pagseguro.uol.com.br/v2/pre-approvals</Link>
+    </PreApprovalSearch>
+    <!-- url for preApproval cancel service -->
+    <PreApprovalCancel>
+      <Link>https://ws.pagseguro.uol.com.br/v2/pre-approvals/cancel</Link>
+    </PreApprovalCancel>
+    <PreApprovalPayment>
+      <Link>https://ws.pagseguro.uol.com.br/v2/pre-approvals/payment</Link>
+    </PreApprovalPayment>
+  </Urls>
+  <!-- user's credential -->
+  <Credential>
+    <!-- your email here -->
+    <Email>ti@fernandapessoa.com.br</Email>
+    <!-- your token here -->
+    <Token>9d81fe97-cca0-4a56-b147-0aa1b82f5345677e12214763aee49ad3c9a0424ad4804af5-878c-4009-ba97-b0fb935f95bb</Token>
+    <!-- your sandbox email here -->
+    <SandboxEmail>ti@fernandapessoa.com.br</SandboxEmail>
+    <!-- your sandbox token here -->
+    <SandboxToken>7006070AF9274E31AF71B3F543F6322C</SandboxToken>
+  </Credential>
+  <!-- configuration default for PagSeguro API-->
+  <Configuration>
+    <!-- version library API PagSeguro .NET C# -->
+    <LibVersion>2.7.0.0</LibVersion>
+    <!-- content type -->
+    <FormUrlEncoded>application/x-www-form-urlencoded</FormUrlEncoded>
+    <!-- encoding of the outcoming/incoming communication to/from PagSeguro API -->
+    <Encoding>UTF-8</Encoding>
+    <!-- default request timeout for call service -->
+    <RequestTimeout>10000</RequestTimeout>
+  </Configuration>
+</PagSeguroConfiguration>

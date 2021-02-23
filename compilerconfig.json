@@ -1,0 +1,38 @@
+﻿[
+  {
+    "outputFile": "scss/style.css",
+    "inputFile": "scss/style.scss"
+  },
+  {
+    "outputFile": "scss/app.css",
+    "inputFile": "scss/app.scss"
+  },
+  {
+    "outputFile": "scss/grid.css",
+    "inputFile": "scss/grid.scss"
+  },
+  {
+    "outputFile": "scss/pages.css",
+    "inputFile": "scss/pages.scss"
+  },
+  {
+    "outputFile": "scss/responsive.css",
+    "inputFile": "scss/responsive.scss"
+  },
+  {
+    "outputFile": "scss/sidebar.css",
+    "inputFile": "scss/sidebar.scss"
+  },
+  {
+    "outputFile": "scss/variable.css",
+    "inputFile": "scss/variable.scss"
+  },
+  {
+    "outputFile": "scss/widgets.css",
+    "inputFile": "scss/widgets.scss"
+  },
+  {
+    "outputFile": "scss/icons/simple-line-icons/less/simple-line-icons.css",
+    "inputFile": "scss/icons/simple-line-icons/less/simple-line-icons.less"
+  }
+]

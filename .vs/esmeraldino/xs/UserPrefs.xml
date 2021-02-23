@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{45411BF3-73C0-4735-85CE-46EE52FACCF4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../../Library/Frameworks/Mono.framework/Versions/6.6.0/lib/mono/msbuild/Current/bin/Microsoft.Common.CurrentVersion.targets">
+    <Files>
+      <File FileName="cargo.aspx" Line="8" Column="13" />
+      <File FileName="cargo.aspx.cs" />
+      <File FileName="coligado.aspx" />
+      <File FileName="Login.aspx" Line="72" Column="10" />
+      <File FileName="../../../../../../../Library/Frameworks/Mono.framework/Versions/6.6.0/lib/mono/msbuild/Current/bin/Microsoft.Common.CurrentVersion.targets" Line="2126" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="esmeraldino" expanded="True">
+            <Node name="esmeraldino" expanded="True">
+              <Node name="Login.aspx" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.esmeraldino PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

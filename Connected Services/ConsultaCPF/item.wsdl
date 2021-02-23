@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="https://ws.iwebservice.info" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://schemas.xmlsoap.org/wsdl/" targetNamespace="https://ws.iwebservice.info" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="https://ws.iwebservice.info">
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:import namespace="http://schemas.xmlsoap.org/wsdl/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="getCepRequest">
+    <wsdl:part name="cep" type="xsd:string" />
+    <wsdl:part name="chave" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="getCepResponse">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="getCpfRequest">
+    <wsdl:part name="cpf" type="xsd:string" />
+    <wsdl:part name="dataNascimento" type="xsd:string" />
+    <wsdl:part name="chave" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="getCpfResponse">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="getCnpjRequest">
+    <wsdl:part name="cnpj" type="xsd:string" />
+    <wsdl:part name="chave" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="getCnpjResponse">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:portType name="iWebServicePortType">
+    <wsdl:operation name="getCep">
+      <wsdl:input message="tns:getCepRequest" />
+      <wsdl:output message="tns:getCepResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="getCpf">
+      <wsdl:input message="tns:getCpfRequest" />
+      <wsdl:output message="tns:getCpfResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="getCnpj">
+      <wsdl:input message="tns:getCnpjRequest" />
+      <wsdl:output message="tns:getCnpjResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="iWebServiceBinding" type="tns:iWebServicePortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="getCep">
+      <soap:operation soapAction="https://ws.iwebservice.info/CEP/" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="https://ws.iwebservice.info" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="https://ws.iwebservice.info" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getCpf">
+      <soap:operation soapAction="https://ws.iwebservice.info/CPF/" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="https://ws.iwebservice.info" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="https://ws.iwebservice.info" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getCnpj">
+      <soap:operation soapAction="https://ws.iwebservice.info/CNPJ/" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="https://ws.iwebservice.info" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="https://ws.iwebservice.info" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="iWebService">
+    <wsdl:port name="iWebServicePort" binding="tns:iWebServiceBinding">
+      <soap:address location="https://ws.iwebservice.info:443/index.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
